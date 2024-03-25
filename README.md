@@ -11,5 +11,5 @@ major web browsers.
 
 The project is made possible by volunteer contributors who've
 generously donated thousands of hours in code development and upkeep.
-! [Chrome]https://raw.githubusercontent.com/alrra/browser-
+![Chrome]https://raw.githubusercontent.com/alrra/browser-
 logos /main/src/chrome/chrome 24x24 .png).
