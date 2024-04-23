@@ -14,15 +14,11 @@ provides an infrastructure for the [W3C WebDriver specification](https://w3c.git
 — a platform and language-neutral coding interface compatible with all
 major web browsers.
 
-The project is made possible by volunteer contributors who've
-generously donated thousands of hours in code development and upkeep.
-
 Selenium's source code is made available under the [Apache 2.0 license](https://github.com/SeleniumHQ/selenium/blob/trunk/LICENSE).
 
-This README is for developers interested in contributing to the project.
-For people looking to get started using Selenium, please check out
-our [User Manual](https://selenium.dev/documentation/) for detailed examples and descriptions, and if you
-get stuck, there are several ways to [Get Help](https://www.selenium.dev/support/).
+[Selenium Server](https://www.selenium.dev/downloads/) supports two sets of commands simultaneously - for
+new version [(WebDriver Google Chrome)](https://chromedriver.chromium.org/downloads) and old version [(Selenium RC)](https://www.selenium.dev/documentation/legacy/selenium_1/).
+
 
 <b>
  <h2>What is Selenium?</h2>
